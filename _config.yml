@@ -1,5 +1,5 @@
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+title: "Nithin Pranesh"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 
-title: Nithin Pranesh
-
-gems: [jekyll-include-cache, jekyll-data]
+gems: [jekyll-include-cache, jekyll-data, minimal-mistakes-jekyll]

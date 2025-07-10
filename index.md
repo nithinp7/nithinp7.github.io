@@ -1,10 +1,12 @@
 ---
-layout: home
+title: "Nithin Pranesh Portfolio" 
+layout: splash
 ---
 
 # Gallery
 
 {% include image-gallery.html folder="/assets/Gallery" %}
+
 
 <!-- TODO Add section explaining how Fluorescence works... -->
 
@@ -27,7 +29,7 @@ layout: home
 
 <img src="assets/Skeleton1.png" width="600px"/>
 <img src="assets/Skeleton2.png" width="600px"/>
-<iframe width="720" height="400" src="https://youtube.com/embed/OBpT-b9hnh8?playlist=OBpT-b9hnh8&autoplay=1&mute=1&loop=1" frameborder="0"> </iframe>
+<iframe width="720" height="400" src="https://youtube.com/embed/OBpT-b9hnh8?playlist=OBpT-b9hnh8&autoplay=1&mute=1&loop=1" frameborder="0">VIDEO_1</iframe>
 
 ## Restir DI
 - Simple implementation of spatial and temporal light resampling based on Restir DI
@@ -41,19 +43,19 @@ layout: home
 - Various constraint implementations - tetrahedral-strain, distance, bending, friction, and collisions
 - Integration into Maya as an authoring tool plugin
 
-<iframe width="720" height="400" src="https://youtube.com/embed/Z5iBf8emENg?playlist=Z5iBf8emENg&autoplay=1&mute=1&loop=1" frameborder="0" allow='autplay'> </iframe>
-<iframe width="720" height="400" src="https://youtube.com/embed/N4j6QIjG2vE?playlist=N4j6QIjG2vE&autoplay=1&mute=1&loop=1" frameborder="0" allow="autplay"> </iframe>
+<iframe width="720" height="400" src="https://youtube.com/embed/Z5iBf8emENg?playlist=Z5iBf8emENg&autoplay=1&mute=1&loop=1" frameborder="0" allow='autoplay'> </iframe>
+<iframe width="720" height="400" src="https://youtube.com/embed/N4j6QIjG2vE?playlist=N4j6QIjG2vE&autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay"> </iframe>
 
 ## Fractal Fluids
 - Grid-based 2D fluid simulation and fractal renderer
 <!-- ![](<assets/FractalFluids.png>) redundant with thumbnail, move to gallery-->
-<iframe width="720" height="400" src="https://youtube.com/embed/_ygAZg0iPBQ?playlist=_ygAZg0iPBQ&autoplay=1&mute=1&loop=1" frameborder="0" allow="autplay"> </iframe>
+<iframe width="720" height="400" src="https://youtube.com/embed/_ygAZg0iPBQ?playlist=_ygAZg0iPBQ&autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay"> </iframe>
 
-<div class="responsive-video-container" style="width:50%; height:50%; float:left;">
-<iframe src="https://youtube.com/embed/ELGxPJAH8Ac?playlist=ELGxPJAH8Ac&autoplay=1&mute=1&loop=1" frameborder="0" allow="autplay"> </iframe>
+<div class="responsive-video-container" style="overflow:visible; border:0; padding:15% 0 15% 0; width:50%; height:auto; float:left;">
+<iframe src="https://youtube.com/embed/ELGxPJAH8Ac?playlist=ELGxPJAH8Ac&autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay"> </iframe>
 </div>
-<div class="responsive-video-container" style="width:50%; height:50%; float:left;">
-<iframe src="https://youtube.com/embed/VFFfwDNePlc?playlist=VFFfwDNePlc&autoplay=1&mute=1&loop=1" frameborder="0" allow="autplay"> </iframe> 
+<div class="responsive-video-container" style="overflow:visible; border:0; padding:15% 0 15% 0; width:50%; height:auto; float:left;">
+<iframe src="https://youtube.com/embed/VFFfwDNePlc?playlist=VFFfwDNePlc&autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay"> </iframe> 
 </div>
 
 ## Smoke Simulation and Rendering
@@ -62,18 +64,21 @@ layout: home
 
 <!-- ![](<assets/SmokeSim1.png>) redundant with thumbnail, move to gallery-->
 <!-- ![](<assets/SmokeSim2.png>) redundant with thumbnail, move to gallery-->
-<iframe width="720" height="400" src="https://youtube.com/embed/HKq5Odd_AWo?playlist=HKq5Odd_AWo&autoplay=1&mute=1&loop=1" frameborder="0" allow="autplay"> </iframe>
+<iframe width="720" height="400" src="https://youtube.com/embed/HKq5Odd_AWo?playlist=HKq5Odd_AWo&autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay"> </iframe>
 
 ## GPU Collision Detection with One Million Particles
 
 - Fast GPU spatial hashing implementation for collision detection 
 - Parallelized Jacobi iterations to resolve collisions
 
-<iframe width="720" height="400" src="https://youtube.com/embed/3F8sH3cQDxk?playlist=3F8sH3cQDxk&autoplay=1&mute=1&loop=1" frameborder="0" allow="autplay"> </iframe>
+<iframe width="720" height="400" src="https://youtube.com/embed/3F8sH3cQDxk?playlist=3F8sH3cQDxk&autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay"> </iframe>
 
 ## Cloth Self-Collision
 - KD Tree broadphase implementation
 - Conjugate gradient descent solver - distance and collision constraints
 
-<iframe width="720" height="400" src="https://youtube.com/embed/pMOo3RrO-Po?playlist=pMOo3RrO-Po&autoplay=1&mute=1&loop=1" frameborder="0" allow="autplay"> </iframe>
-<iframe width="720" height="400" src="https://youtube.com/embed/j2Rxeo_FoZ0?playlist=j2Rxeo_FoZ0&autoplay=1&mute=1&loop=1" frameborder="0" allow="autplay"> </iframe>
+<iframe width="720" height="400" src="https://youtube.com/embed/pMOo3RrO-Po?playlist=pMOo3RrO-Po&autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay"> </iframe>
+<iframe width="720" height="400" src="https://youtube.com/embed/j2Rxeo_FoZ0?playlist=j2Rxeo_FoZ0&autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay"> </iframe>
+
+
+<script src="script/scrolled_autoplay.js" defer></script>

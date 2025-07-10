@@ -1,0 +1,5 @@
+title: "Nithin Pranesh"
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "dark"
+
+gems: [jekyll-include-cache, jekyll-data]
