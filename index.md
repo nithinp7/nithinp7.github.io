@@ -14,6 +14,22 @@ layout: splash
 
 # Projects and Experiments
 
+## Fracture: CT Scan Renderer 
+- CT Scan parsing and streaming
+- Multi-level occupancy bitfield
+- Hierarchical DDA raymarcher
+- Single-scatter volumetric lighting
+- Interactive frame-rates
+
+<img src="assets/Fracture_3.png" width="600px"/>
+<img src="assets/Fracture_1.png" width="600px"/>
+<img src="assets/Fracture_2.png" width="600px"/>
+<img src="assets/Fracture_4.png" width="600px"/>
+<img src="assets/Fracture_5.png" width="600px"/>
+<!-- <img src="assets/Skeleton1.png" width="600px"/> -->
+<!-- <img src="assets/Skeleton2.png" width="600px"/> -->
+<iframe width="720" height="400" src="https://youtube.com/embed/OBpT-b9hnh8?playlist=OBpT-b9hnh8&autoplay=1&mute=1&loop=1" frameborder="0">VIDEO_1</iframe>
+
 ## Skin Rendering Experiments
 - Screen-space techniques to approximate subsurface scattering, shadows, and translucency
 - Two-layered skin BRDF with adjustable diffusion profile
@@ -21,15 +37,6 @@ layout: splash
 
 <img src="assets/Skin1.png" width="600px"/>
 <img src="assets/Skin2.png" width="600px"/>
-
-## Fracture: CT Scan Renderer 
-- CT Scan parsing and streaming
-- Custom compact voxel format 
-- Simple volumetric rendering, direct lighting with shadows
-
-<img src="assets/Skeleton1.png" width="600px"/>
-<img src="assets/Skeleton2.png" width="600px"/>
-<iframe width="720" height="400" src="https://youtube.com/embed/OBpT-b9hnh8?playlist=OBpT-b9hnh8&autoplay=1&mute=1&loop=1" frameborder="0">VIDEO_1</iframe>
 
 ## Restir DI
 - Simple implementation of spatial and temporal light resampling based on Restir DI
