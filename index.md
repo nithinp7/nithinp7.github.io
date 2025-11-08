@@ -21,14 +21,16 @@ layout: splash
 - Single-scatter volumetric lighting
 - Interactive frame-rates
 
+<img src="assets/Fracture_6.png" width="1200"/>
 <img src="assets/Fracture_3.png" width="600px"/>
 <img src="assets/Fracture_1.png" width="600px"/>
-<img src="assets/Fracture_2.png" width="600px"/>
 <img src="assets/Fracture_4.png" width="600px"/>
+<img src="assets/Fracture_7.png" width="600px"/>
 <img src="assets/Fracture_5.png" width="600px"/>
+<img src="assets/Fracture_2.png" width="600px"/>
 <!-- <img src="assets/Skeleton1.png" width="600px"/> -->
 <!-- <img src="assets/Skeleton2.png" width="600px"/> -->
-<iframe width="720" height="400" src="https://youtube.com/embed/OBpT-b9hnh8?playlist=OBpT-b9hnh8&autoplay=1&mute=1&loop=1" frameborder="0">VIDEO_1</iframe>
+<!-- <iframe width="720" height="400" src="https://youtube.com/embed/OBpT-b9hnh8?playlist=OBpT-b9hnh8&autoplay=1&mute=1&loop=1" frameborder="0">VIDEO_1</iframe> -->
 
 ## Skin Rendering Experiments
 - Screen-space techniques to approximate subsurface scattering, shadows, and translucency
